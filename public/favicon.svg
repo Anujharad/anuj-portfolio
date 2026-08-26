@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="128" fill="#050505"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="12"/>
+  <!-- Bold A monogram -->
+  <path d="M 175 375 L 256 135 L 337 375 L 290 375 L 274 322 L 238 322 L 222 375 Z M 249 278 L 263 278 L 256 215 Z" fill="#FFFFFF"/>
+  <!-- Red accent dot -->
+  <circle cx="360" cy="155" r="28" fill="#FF3045"/>
+</svg>
